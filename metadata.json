@@ -1,0 +1,5 @@
+{
+  "name": "FlashAI - Vocabulary Learner",
+  "description": "An intelligent flashcard application powered by Gemini to help you learn English vocabulary effectively. Generate decks instantly based on topics.",
+  "requestFramePermissions": []
+}
